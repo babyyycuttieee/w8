@@ -1,0 +1,15 @@
+{
+	"scripts": {
+		"start": "node main.js",
+		"test": "jest"
+	},
+	"dependencies": {
+		"bcrypt": "^5.0.1",
+		"express": "^4.18.1"
+	},
+	"devDependencies": {
+		"@shelf/jest-mongodb": "^2.2.1",
+		"jest": "^28.1.0",
+		"supertest": "^6.2.3"
+	}
+}
